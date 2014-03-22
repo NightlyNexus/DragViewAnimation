@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Drag View Animation</string>
+    <string name="wikipedia_text">Wikipedia is a collaboratively edited, multilingual,
+        free Internet encyclopedia that is supported by the non-profit Wikimedia Foundation.
+        Volunteers worldwide collaboratively write Wikipedia\'s 30 million articles in
+        287 languages, including over 4.4 million in the English Wikipedia. Anyone who can
+        access the site can edit almost any of its articles, which on the Internet comprise
+        the largest and most popular general reference work.</string>
+
+</resources>

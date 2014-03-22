@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.brianco.dragviewanimation.MainActivity"
+    android:id="@+id/root"
+    android:background="@android:color/holo_purple" >
+
+    <TextView
+        android:id="@+id/wikipedia_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:gravity="bottom"
+        android:background="@android:color/holo_blue_dark"
+        android:text="@string/wikipedia_text"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/big_image"
+        android:src="@drawable/dummy"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true" />
+
+</RelativeLayout>
